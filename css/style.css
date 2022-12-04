@@ -732,7 +732,7 @@ footer{
 		"list list";
 		grid-template-columns: 100px 1fr;
 		grid-template-rows: 1fr 30px;
-		justify-items: auto;
+		justify-items: space-between;
 		align-items: center;
 		gap: 10px;
 	}
